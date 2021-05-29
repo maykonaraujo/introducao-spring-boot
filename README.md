@@ -9,7 +9,6 @@ Durante a aula, são abordados os seguintes tópicos:
 * Sobrescrita de configurações através de variáveis de ambiente e injeção destes valores diretamente no projeto.
 
 Pré-requisitos para a execução:
-
 * Java 8 ou versões superiores.
 * Maven 3.5.2 ou versões superiores.
 * Intellj IDEA Community Edition ou sua IDE favorita.
